@@ -5,7 +5,9 @@ SliceLogger is a full-featured ham radio logging program designed to leverage Sm
 
 A complete overview of everything SliceLogger does is found in the Feature Help file — from rapid manual QSO entry to automatic WSJT-X and FLDigi logging, FlexRadio slice tracking, SmartLink support, and live radio telemetry, LoTW, and eQSL.cc upload and sync, Award tracking, logbook ADIF import, paper QSL card tracking, DXCC entity tracking, space weather, the interactive Grid Map of worked squares, and the Grayline / Spots Globe with real-time 3-D day/night shading and live DX spot visualization.
 
-<img width="1035" height="820" alt="Screen Shot 07-03-26 at 08 51 PM" src="https://github.com/user-attachments/assets/f843ee63-e5e1-4082-8565-ba4f556f41e9" />
+<!-- <img width="1035" height="820" alt="Screen Shot 07-03-26 at 08 51 PM" src="https://github.com/user-attachments/assets/f843ee63-e5e1-4082-8565-ba4f556f41e9" /> -->
+<img width="1208" height="799" alt="shot-hero" src="https://github.com/user-attachments/assets/2ab77146-326f-458d-8e9e-93d8b7cbbd06" />
+
 
 <strong>Getting Started:</strong> After downloading and installing the application on your Windows 10 or Windows 11 PC, navigate to the <i>Help->Features</i> menu selection to familiarize yourself with SliceLogger features.  
 
